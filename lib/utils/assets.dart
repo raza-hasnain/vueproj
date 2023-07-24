@@ -1,0 +1,10 @@
+const String intoVideo = "assets/video/intro.mp4";
+const String outGoing = "assets/icons/outgoing-call.png";
+const String inComming = "assets/icons/incoming-call.png";
+const String missed = "assets/icons/call-missed.png";
+const String unknown = "assets/icons/unknown.png";
+const String lottieLoading = "assets/json/loading_lottie.json";
+const String lightLoading = "assets/json/lottie_loader_for_dark_theme.json";
+const String darkLoading = "assets/json/lottie_loader_for_dark_theme.json";
+const String introGif = "assets/video/intro.gif";
+const String noInternet = "assets/json/no_internet.json";
